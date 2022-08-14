@@ -20,3 +20,8 @@ I don't really know how to choose and enfore a legally-binding license at this t
 In this spirit, I give special thanks to [Exalm](https://github.com/Exalm), who made the SSP mod many years ago which I am now using as a framework for this project. That project is now dormant, so please don't bother them about it.
 
 And as a side note, you, yourself, are responsible for keeping sure that you do not get in trouble with the Microsoft-Mojang cops in any sort of distribution of this mod ;)—I'm probably gonna have to re-structure some things around here myself at some point.
+
+### Are you funny?
+![I am funny](https://user-images.githubusercontent.com/69347329/184554182-6e68ccd6-2e42-4cbd-825b-be60a4aab7ea.png)
+
+Yes.
