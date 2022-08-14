@@ -1,4 +1,4 @@
-/* package net.minecraft.src;
+package net.minecraft.src;
 
 import java.util.List;
 
@@ -79,4 +79,4 @@ public class ProvisionalGuiIngameMenuOverlay extends ProvisionalGuiOverlay
             gui.drawString(gui.getFontRenderer(), "Saving level..", 8, gui.height - 16, i << 16 | i << 8 | i);
         }
     }
-} */
+}

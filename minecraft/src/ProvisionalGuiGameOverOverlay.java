@@ -1,4 +1,4 @@
-/*package net.minecraft.src;
+package net.minecraft.src;
 
 import java.util.List;
 
@@ -50,4 +50,4 @@ public class ProvisionalGuiGameOverOverlay extends ProvisionalGuiOverlay
         }
         return true;
     }
-} */
+}

@@ -3113,8 +3113,8 @@ public class Minecraft implements IPlayerUsage
 
     private void setupOverlays()
     {
-//        new ProvisionalGuiGameOverOverlay();
-//        new ProvisionalGuiIngameMenuOverlay();
+        new ProvisionalGuiGameOverOverlay();
+        new ProvisionalGuiIngameMenuOverlay();
 //        new ProvisionalGuiMainMenuOverlay();
 //        new ProvisionalGuiMultiplayerOverlay(); Trying to remove these 'overlays' - Schf
         new ProvisionalGuiShareToLanOverlay();
